@@ -158,6 +158,15 @@ export default function Internationalparticipants() {
                     <option value="Physics">
                       Physics - (For Senior High School & University)
                     </option>
+                    <option value="Astronomy">
+                      Astronomy - (For Senior High School & University)
+                    </option>
+                    <option value="Economy">
+                      Economy - (For Senior High School & University)
+                    </option>
+                    <option value="Business Competition">
+                      Bussiness Competition - (For Senior High School & University)
+                    </option>
                   </select>
                 </div>
               </div>
