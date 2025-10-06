@@ -27,7 +27,7 @@ export default function Internationalparticipants() {
 
   useEffect(() => {
     const scriptURL =
-      "https://script.google.com/macros/s/AKfycbxySFDFvGKDdAxwJgH4ZNswkjkBJ-wbiBLq5fRBaAwsXCiZnOG5VJ_K578FCaiJr3VM/exec";
+      "";
 
     const form = document.forms["regist-form"];
     var buttonCounter = 0;
@@ -462,7 +462,7 @@ export default function Internationalparticipants() {
               {/* GENERAL INFORMATION END */}
 
               <div className="button">
-                <input type="submit" value="Submit" />
+                <input type="submit" value="Close Registration" />
               </div>
             </form>
 
